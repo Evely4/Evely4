@@ -1,11 +1,15 @@
 - 👋 Hi, I’m @Evely4
 - 👀 I’m interested in ... programação 
-- 🌱 I’m currently learning ... linguagens básicas html, linux, github
-- 💞️ I’m  procurando uma oprtunidade na  área para programadores iniciantes
+- 🌱 I’m currently learning ... linguagens básicas html, linux, github , backend, front end .
+- 💞️ I’m  estou em busca de uma oprtnidade na  área para programadores iniciante
 - 📫 How to reach me 
+
 -linkedin.com/in/maria-evely-silva-a98593217
+
 github.com/Evely4 (Portfólio)
+
 evely-silva@hotmail.com
+
 (11) 96631-0602
 
 <!---
