@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evely4
 - 👀 I’m interested in ... programação 
-- 🌱 I’m currently learning ... linguagens básicas html, linux, github , backend, front end .
+- 🌱 I’m currently learning ... linguagens básicas html, linux, github , front end .
 - 💞️ I’m  estou em busca de uma oprtnidade na  área para programadores iniciante
 - 📫 How to reach me 
 
