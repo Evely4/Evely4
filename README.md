@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Evely4
 - 👀 I’m interested in ... programação 
-- 🌱 I’m currently learning ... linguagens básicas html, linux, github , front end .
+- tenho conhecimentos básicos em linguagens de progragração como   Conhecimentos básicos em Linux- ubuntu, Python, MySQL, Java.
+- aprendendo : Javascript, HTML,CSS e  REACTjs
+- Aperfeiçoando e m Front End pela Codeland
+
 - 💞️ I’m  estou em busca de uma oprtnidade na  área para programadores iniciante
 - 📫 How to reach me 
-
 -linkedin.com/in/maria-evely-silva-a98593217
 
 
