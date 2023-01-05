@@ -6,7 +6,6 @@
 
 -linkedin.com/in/maria-evely-silva-a98593217
 
-github.com/Evely4 (Portfólio)
 
 evely-silva@hotmail.com
 
