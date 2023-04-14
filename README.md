@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evely4
 - 👀 I’m interested in ... programação 
-- tenho conhecimentos básicos em linguagens de progragração como   Conhecimentos básicos em Linux- ubuntu, Python, MySQL, Java.
+- tenho conhecimentos básicos em linguagens de progragração 
 - aprendendo : Javascript, HTML,CSS e  REACTjs
 - Aperfeiçoando e m Front End pela Codeland
 
