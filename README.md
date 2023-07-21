@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Evely4
 - 👀 I’m interested in ... programação 
 - tenho conhecimentos básicos em linguagens de progragração 
-conhecimento em : HTML, CSS  e Javascript
+conhecimento em : HTML, CSS  e Javascript, bootstrap e WordPress
 - Aperfeiçoando e m Front End pela Codeland
 
 - 💞️ I’m  estou em busca de uma oprtnidade na  área para programadores iniciante
