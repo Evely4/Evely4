@@ -2,8 +2,6 @@
 - 👀 I’m interested in ... programação 
 - tenho conhecimentos básicos em linguagens de progragração 
 conhecimento em : HTML, CSS  e Javascript, bootstrap e WordPress
-- Aperfeiçoando e m Front End pela Codeland
-
 - 💞️ I’m  estou em busca de uma oprtnidade na  área para programadores iniciante
 - 📫 How to reach me 
 -linkedin.com/in/maria-evely-silva-a98593217
