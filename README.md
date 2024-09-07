@@ -8,7 +8,6 @@ conhecimento em : HTML, CSS  e Javascript, bootstrap e WordPress
 
 - evely-silva@hotmail.com
 
-- Meu portifólio : https://mariaevely-silva.soukick.com.br/?preview_id=90
 
 
 
