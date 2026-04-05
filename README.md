@@ -62,6 +62,5 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00f2fe&height=2&section=footer" width="100%" />
   <sub>© 2026 // Desenvolvido por Evely Silva</sub>
 </p>
