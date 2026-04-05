@@ -1,22 +1,27 @@
 # <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Evely Silva </p>
 
 <p align="center">
-  <b>Engenheira de Computação (UNIVESP)</b> | <b>Front-End Developer</b>
+  <b>Engenharia da Computação (UNIVESP)</b> | <b>Front-End Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-10º%20Semestre-00f2fe?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Local-Santo%20Andr%C3%A9%2C%20SP-ec4899?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Busca-1%C2%AA%20Oportunidade%20Tech-00f2fe?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-10%C2%BA%20Semestre-ec4899?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
-> Sou graduanda em Engenharia da Computação pela **UNIVESP**, focada em unir a lógica estruturada da engenharia à criatividade do desenvolvimento moderno. Minha base técnica permite que eu transite entre hardware e software com precisão.
+
+Sou **graduanda em Engenharia da Computação pela UNIVESP** (10º semestre), focada em unir a lógica estruturada da engenharia à criatividade do desenvolvimento moderno. Minha base técnica permite que eu transite entre hardware e software com precisão.
+
+Durante minha trajetória acadêmica e técnica, venho aplicando **HTML5, CSS3, JavaScript (ES6+) e Bootstrap** para construir interfaces responsivas, além de utilizar **Python e MySQL** no desenvolvimento de sistemas e análise de dados estruturados.
+
+Meu foco está em transformar requisitos técnicos em soluções digitais que gerem valor real e simplifiquem a vida do usuário final. **Atualmente, estou em busca da minha primeira oportunidade oficial na área de tecnologia.**
 
 ---
 
-### 🛠️ Conjunto de Tecnologias
+### 🛠️ Tech Stack
 
 **Front-End & Design**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,11 +41,11 @@
 
 ### 📁 Projetos Selecionados
 
-#### 📊 [Painel de Vendas](https://evely4.github.io/dashboard/)
-*Sistema de dashboard desenvolvido para simular um ambiente real de análise de vendas, com geração dinâmica de dados e gráficos interativos.*
+#### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
+*Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador.*
 
-* **Stack:** `JavaScript` `Bootstrap` `Local Storage`
-* **Destaque:** Interface responsiva com foco em visualização de especificações.
+* **Stack:** `JavaScript` `Bootstrap`
+* **Destaque:** Interface responsiva com foco em visualização de métricas.
 
 ---
 
@@ -58,5 +63,5 @@
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00f2fe&height=2&section=footer" width="100%" />
-  <sub>© 2026 | Desenvolvido por Evely Silva</sub>
+  <sub>© 2026 // Desenvolvido por Evely Silva</sub>
 </p>
