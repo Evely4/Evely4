@@ -1,33 +1,38 @@
- # Olá, eu sou a Evely Silva! 👋
+# Olá, eu sou a Evely Silva! 👋
 
-**Engenheira de Computação em formação | Desenvolvedora Front-End**
+**Engenheira de Computação (10º Semestre - UNIVESP)**
 
-Atualmente no 10º semestre, focada em criar interfaces web modernas, responsivas e eficientes.
-
----
-
-### 🛠️ Minhas Tecnologias
-
-- **Front-End:** JavaScript, HTML5, CSS3 e Bootstrap.
-- **Lógica e Dados:** Python e MySQL.
-- **Ferramentas:** Git, GitHub e VS Code.
+Focada em transformar lógica em interfaces modernas e funcionais. Desenvolvedora Front-End apaixonada por criar soluções web responsivas e eficientes.
 
 ---
 
-### 💻 Projetos e Portfólio
+### 🛠️ Tecnologias & Ferramentas
 
-- **[Meu Portfólio Online](https://evely4.github.io/dashboard/)** - Acesse para ver meus trabalhos e habilidades.
-- **[Dashboard de Vendas Interativo](https://evely4.github.io/dashboard/)** - Sistema com gráficos dinâmicos (Chart.js) e lógica de crescimento de dados.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-End** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Lógica & Dados** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📬 Contato
+### 💻 Projeto em Destaque
 
-- **LinkedIn:** [Maria Evely Silva](https://www.linkedin.com/in/maria-evely-silva-a98593217/)
-- **E-mail:** [evely-silva@hotmail.com](mailto:evely-silva@hotmail.com)
+#### 📊 [Dashboard de Vendas Interativo](https://evely4.github.io/dashboard/)
+Painel dinâmico desenvolvido com **JavaScript** e **Chart.js**. O sistema simula o faturamento mensal com lógica de crescimento progressivo, permitindo visualizar dados de pedidos e clientes de forma intuitiva e moderna.
+
+---
+
+### 📬 Vamos nos conectar?
+
+- 🌐 **[Meu Portfólio Online](https://evely4.github.io/dashboard/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/maria-evely-silva-a98593217/)**
+- 📧 **[E-mail](mailto:evely-silva@hotmail.com)**
 
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding_Mode-ec4899?style=for-the-badge" />
+  <br>
   <i>“A tecnologia move o mundo, mas a engenharia constrói o caminho.”</i>
 </p>
