@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=terminal&color=050509&height=200&section=header&text=Evely_Silva.exe&fontSize=70&fontColor=00f2fe&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=terminal&color=050509&height=200&section=header&text=Evely_Silva.exe&fontSize=70&fontColor=00f2fe&animation=fadeIn" width="100%" />
 </div>
 
 # [evely@univesp:~$] nano profile.json 👋
 
-```javascript
+```json
 {
   "nome": "Evely Silva",
   "status": "Desenvolvedora Front-End em formação",
