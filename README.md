@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Evely Silva </p>
+ # <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Evely Silva </p>
 
 <p align="center">
   <b>Engenharia da Computação (UNIVESP)</b> | <b>Front-End Developer</b>
@@ -42,10 +42,18 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 ### 📁 Projetos Selecionados
 
 #### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
-*Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador.*
+Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador.
 
 * **Stack:** `JavaScript` `Bootstrap`
 * **Destaque:** Interface responsiva com foco em visualização de métricas.
+
+---
+
+#### 🚀 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
+Landing page desenvolvida com foco em conversão, utilizando estrutura de marketing digital, animações, contadores dinâmicos e integração com WhatsApp para captação de leads.
+
+* **Stack:** `HTML` `Tailwind CSS` `JavaScript`
+* **Destaque:** Estrutura otimizada para conversão e uso de elementos de UX voltados para engajamento.
 
 ---
 
