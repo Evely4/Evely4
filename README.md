@@ -1,4 +1,4 @@
- # <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Evely Silva </p>
+# <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Evely Silva </p>
 
 <p align="center">
   <b>Engenharia da Computação (UNIVESP)</b> | <b>Front-End Developer</b>
@@ -25,9 +25,9 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 
 **Front-End & Design**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -43,17 +43,23 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 
 #### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
 Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador.
+* **Stack:** `JavaScript` `Bootstrap` `Chart.js`
+* **Destaque:** Interface responsiva com foco em visualização de métricas e UX.
 
-* **Stack:** `JavaScript` `Bootstrap`
-* **Destaque:** Interface responsiva com foco em visualização de métricas.
+#### ⚡ [Agência Positivus](https://maria-evely-positivus.netlify.app/)
+Landing Page desenvolvida com rigor técnico para replicar o design Neo-Brutalista do Figma. Foco total em fidelidade visual e performance.
+* **Stack:** `HTML5` `CSS3` `JavaScript`
+* **Destaque:** Responsividade móvel otimizada e design moderno.
 
----
-
-#### 🚀 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
-Landing page desenvolvida com foco em conversão, utilizando estrutura de marketing digital, animações, contadores dinâmicos e integração com WhatsApp para captação de leads.
-
+#### 🐍 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
+Página de alta conversão para cursos de tecnologia, contando com contadores dinâmicos, animações de entrada e integração de leads.
 * **Stack:** `HTML` `Tailwind CSS` `JavaScript`
-* **Destaque:** Estrutura otimizada para conversão e uso de elementos de UX voltados para engajamento.
+* **Destaque:** Estrutura de marketing digital e elementos de engajamento dinâmico.
+
+#### 🤖 [Automação Industrial - Pasta 2](https://github.com/Evely4)
+Projeto focado em engenharia de software e automação, utilizando Python para integração de processos e lógica de sistemas.
+* **Stack:** `Python` `RPA` `Lógica de Engenharia`
+* **Destaque:** Aplicação prática de conceitos de Engenharia da Computação para otimização de tarefas.
 
 ---
 
@@ -65,6 +71,9 @@ Landing page desenvolvida com foco em conversão, utilizando estrutura de market
   </a>
   <a href="mailto:evely-silva@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Evely4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
