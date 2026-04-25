@@ -42,20 +42,20 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 ### 📁 Projetos Selecionados
 
 #### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
-Interface de análise de dados com foco em simular um ambiente real de vendas, utilizando gráficos dinâmicos e persistência de dados no navegador.
-* **Stack:** `JavaScript` `Bootstrap`
+Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador. Interface responsiva com foco em visualização de métricas.
+* **Stack:** `JS` `Bootstrap`
 
-#### 🚀 [Agência Positivus](https://maria-evely-positivus.netlify.app/)
-Landing Page desenvolvida com rigor técnico para replicar design Neo-Brutalista do Figma. Foco total em fidelidade visual e responsividade móvel otimizada.
+#### 🚀 [Página Positivus](https://maria-evely-positivus.netlify.app/)
+Landing Page Neo-Brutalista focada em fidelidade visual ao Figma e responsividade móvel otimizada.
 * **Stack:** `HTML/CSS` `UX/UI`
 
-#### 📂 [Projeto Pasta 2](https://github.com/Evely4)
-Desenvolvimento focado em automação e integração de sistemas, aplicando lógica de engenharia para otimização de processos.
-* **Stack:** `Python` `Engenharia`
+#### 🐍 [Landing Page de Curso Python](https://pasta-2-projeto-positivus.netlify.app/)
+Aprenda Python do zero e construa projetos reais com IA.
+* **Stack:** `Python` `Automate`
 
-#### 🐍 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
-Estrutura otimizada para conversão com contadores dinâmicos, animações e foco em captação de leads.
-* **Stack:** `HTML` `Tailwind CSS` `JavaScript`
+#### 🤖 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
+Landing page desenvolvida com foco em conversão, utilizando estrutura de marketing digital, animações, contadores dinâmicos e integração com WhatsApp para captação de leads.
+* **Stack:** `HTML` `Tailwind CSS` `JavaScript` `Python` `IA`
 
 ---
 
