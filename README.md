@@ -42,24 +42,20 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 ### 📁 Projetos Selecionados
 
 #### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
-Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador.
-* **Stack:** `JavaScript` `Bootstrap` `Chart.js`
-* **Destaque:** Interface responsiva com foco em visualização de métricas e UX.
+Interface de análise de dados com foco em simular um ambiente real de vendas, utilizando gráficos dinâmicos e persistência de dados no navegador.
+* **Stack:** `JavaScript` `Bootstrap`
 
-#### ⚡ [Agência Positivus](https://maria-evely-positivus.netlify.app/)
-Landing Page desenvolvida com rigor técnico para replicar o design Neo-Brutalista do Figma. Foco total em fidelidade visual e performance.
-* **Stack:** `HTML5` `CSS3` `JavaScript`
-* **Destaque:** Responsividade móvel otimizada e design moderno.
+#### 🚀 [Agência Positivus](https://maria-evely-positivus.netlify.app/)
+Landing Page desenvolvida com rigor técnico para replicar design Neo-Brutalista do Figma. Foco total em fidelidade visual e responsividade móvel otimizada.
+* **Stack:** `HTML/CSS` `UX/UI`
+
+#### 📂 [Projeto Pasta 2](https://github.com/Evely4)
+Desenvolvimento focado em automação e integração de sistemas, aplicando lógica de engenharia para otimização de processos.
+* **Stack:** `Python` `Engenharia`
 
 #### 🐍 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
-Página de alta conversão para cursos de tecnologia, contando com contadores dinâmicos, animações de entrada e integração de leads.
+Estrutura otimizada para conversão com contadores dinâmicos, animações e foco em captação de leads.
 * **Stack:** `HTML` `Tailwind CSS` `JavaScript`
-* **Destaque:** Estrutura de marketing digital e elementos de engajamento dinâmico.
-
-#### 🤖 [Automação Industrial - Pasta 2](https://github.com/Evely4)
-Projeto focado em engenharia de software e automação, utilizando Python para integração de processos e lógica de sistemas.
-* **Stack:** `Python` `RPA` `Lógica de Engenharia`
-* **Destaque:** Aplicação prática de conceitos de Engenharia da Computação para otimização de tarefas.
 
 ---
 
@@ -71,9 +67,6 @@ Projeto focado em engenharia de software e automação, utilizando Python para i
   </a>
   <a href="mailto:evely-silva@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Evely4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
