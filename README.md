@@ -42,7 +42,7 @@ Além da formação técnica, sou **Bacharel em Direito e Historiadora**, o que 
 
 ### 📁 Projetos Selecionados
 
-#### 🤖 [Sistema de Monitoramento com Orquestração de Agentes de IA](https://github.com/Evely4) (Destaque Técnico)
+#### 🤖 [Sistema de Monitoramento com Orquestração de Agentes de IA](https://github.com/Evely4/-Projeto-Agentes-IA) (Destaque Técnico)
 Este projeto representa o estado da arte na convergência entre **Engenharia de Computação, Python e RPA**. Utiliza uma estrutura de **multi-agentes de IA** (PO, Arquiteto, Backend, Frontend, QA e DevOps) para gerenciar o ciclo de vida do software. Focado em predição de falhas e monitoramento de métricas em tempo real.
 * **Stack:** `Python (Pandas, Pytest)` `Multi-Agentes IA` `Bootstrap` `RPA`
 
