@@ -15,9 +15,9 @@
 
 Sou **graduanda em Engenharia da Computação pela UNIVESP** (10º semestre), focada em unir a lógica estruturada da engenharia à criatividade do desenvolvimento moderno. Minha base técnica permite que eu transite entre hardware e software com precisão.
 
-Durante minha trajetória acadêmica e técnica, venho aplicando **HTML5, CSS3, JavaScript (ES6+) e Bootstrap** para construir interfaces responsivas, além de utilizar **Python e MySQL** no desenvolvimento de sistemas e análise de dados estruturados.
+Além da formação técnica, sou **Bacharel em Direito e Historiadora**, o que me confere uma visão analítica diferenciada para a resolução de problemas complexos. Atualmente, utilizo **Python, RPA e tecnologias Front-End** para construir soluções automatizadas e inteligentes.
 
-Meu foco está em transformar requisitos técnicos em soluções digitais que gerem valor real e simplifiquem a vida do usuário final. **Atualmente, estou em busca da minha primeira oportunidade oficial na área de tecnologia.**
+**Atualmente, estou em busca da minha primeira oportunidade oficial na área de tecnologia.**
 
 ---
 
@@ -31,18 +31,23 @@ Meu foco está em transformar requisitos técnicos em soluções digitais que ge
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Dados & Engenharia**
+**Dados, Engenharia & IA**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-Automation-blue?style=flat-square)
 
 ---
 
 ### 📁 Projetos Selecionados
 
+#### 🤖 [Sistema de Monitoramento com Orquestração de Agentes de IA](https://github.com/Evely4) (Destaque Técnico)
+Este projeto representa o estado da arte na convergência entre **Engenharia de Computação, Python e RPA**. Utiliza uma estrutura de **multi-agentes de IA** (PO, Arquiteto, Backend, Frontend, QA e DevOps) para gerenciar o ciclo de vida do software. Focado em predição de falhas e monitoramento de métricas em tempo real.
+* **Stack:** `Python (Pandas, Pytest)` `Multi-Agentes IA` `Bootstrap` `RPA`
+
 #### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
-Sistema de dashboard desenvolvido com foco em simular um ambiente real de análise de vendas, com geração dinâmica de dados, gráficos interativos e persistência no navegador. Interface responsiva com foco em visualização de métricas.
+Sistema de dashboard desenvolvido para simular um ambiente real de análise de vendas, com geração dinâmica de dados e gráficos interativos.
 * **Stack:** `JS` `Bootstrap`
 
 #### 🚀 [Página Positivus](https://maria-evely-positivus.netlify.app/)
@@ -50,12 +55,8 @@ Landing Page Neo-Brutalista focada em fidelidade visual ao Figma e responsividad
 * **Stack:** `HTML/CSS` `UX/UI`
 
 #### 🐍 [Landing Page de Curso Python](https://pasta-2-projeto-positivus.netlify.app/)
-Aprenda Python do zero e construa projetos reais com IA.
+Página para curso de Python focada em construção de projetos reais com automação e IA.
 * **Stack:** `Python` `Automate`
-
-#### 🤖 [Landing Page - Python e IA](https://evely4.github.io/landing-page-python-ia/)
-Landing page desenvolvida com foco em conversão, utilizando estrutura de marketing digital, animações, contadores dinâmicos e integração com WhatsApp para captação de leads.
-* **Stack:** `HTML` `Tailwind CSS` `JavaScript` `Python` `IA`
 
 ---
 
@@ -72,5 +73,5 @@ Landing page desenvolvida com foco em conversão, utilizando estrutura de market
 
 ---
 <p align="center">
-  <sub>© 2026 // Desenvolvido por Evely Silva</sub>
+  <sub>© 2026 // Desenvolvido por Maria Evely da Silva</sub>
 </p>
