@@ -42,22 +42,25 @@ Além da formação técnica, sou **Bacharel em Direito e Historiadora**, o que 
 
 ### 📁 Projetos Selecionados
 
-#### 📉 [Sistema Inteligente de Monitoramento e Previsão de Falhas]( https://github.com/Evely4/Sistema-Inteligente-de-Monitoramento-e-Previs-o-de-Falhas-com-Python)
-Desenvolvimento de uma ferramenta de monitoramento de infraestrutura computacional utilizando Python. O sistema realiza a coleta de telemetria em tempo real e processa dados baseados em faixas de criticidade validadas em hardware físico (Notebook LENOVO i5).
+#### 📉 [Sistema Inteligente de Monitoramento e Previsão de Falhas] (https://github.com/Evely4/Sistema-Inteligente-de-Monitoramento-e-Previs-o-de-Falhas-com-Python)
+Ferramenta de monitoramento de infraestrutura computacional com coleta de telemetria em tempo real e validação em ambiente físico (Lenovo i5).
 * **Stack:** `Python` `psutil` `pandas` `matplotlib` `Engenharia de Sistemas`
-* **Destaque:** Implementação validada em ambiente controlado, seguindo metodologia científica de monitoramento de hardware.
 
 #### 🤖 [Sistema de Monitoramento com Orquestração de Agentes de IA](https://github.com/Evely4/-Projeto-Agentes-IA)
-Utiliza uma estrutura de multi-agentes de IA para gerenciar o ciclo de vida do software. Focado em predição de falhas e monitoramento de métricas em tempo real.
-* **Stack:** `Python (Pandas, Pytest)` `Multi-Agentes IA` `Bootstrap` `RPA`
+Estrutura de multi-agentes de IA para gerenciamento do ciclo de vida de software, foco em predição de falhas.
+* **Stack:** `Python` `Multi-Agentes IA` `Bootstrap` `RPA`
 
 #### 📊 [Dashboard de Vendas](https://evely4.github.io/dashboard/)
-Sistema de dashboard para simulação de análise de vendas, com geração dinâmica de dados e gráficos interativos.
+Dashboard de análise de vendas com geração dinâmica de dados e gráficos interativos.
 * **Stack:** `JS` `Bootstrap`
 
 #### 🚀 [Página Positivus](https://maria-evely-positivus.netlify.app/)
-Landing Page Neo-Brutalista com foco em fidelidade visual ao Figma e responsividade.
+Landing Page Neo-Brutalista focada em responsividade e fidelidade ao design no Figma.
 * **Stack:** `HTML/CSS` `UX/UI`
+
+#### 🐍 [Landing Page de Curso Python](https://pasta-2-projeto-positivus.netlify.app/)
+Página de conversão focada em projetos de automação e introdução à IA com Python.
+* **Stack:** `Python` `Automação`
 
 ---
 
