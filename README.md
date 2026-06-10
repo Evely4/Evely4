@@ -42,7 +42,7 @@ Além da formação técnica, sou **Bacharel em Direito e Historiadora**, o que 
 
 ### 📁 Projetos Selecionados
 
-#### 📉 [Sistema Inteligente de Monitoramento e Previsão de Falhas](https://github.com/Evely4/Monitoramento-Inteligente-TCC) (TCC)
+#### 📉 [Sistema Inteligente de Monitoramento e Previsão de Falhas]( https://github.com/Evely4/Sistema-Inteligente-de-Monitoramento-e-Previs-o-de-Falhas-com-Python)
 Desenvolvimento de uma ferramenta de monitoramento de infraestrutura computacional utilizando Python. O sistema realiza a coleta de telemetria em tempo real e processa dados baseados em faixas de criticidade validadas em hardware físico (Notebook LENOVO i5).
 * **Stack:** `Python` `psutil` `pandas` `matplotlib` `Engenharia de Sistemas`
 * **Destaque:** Implementação validada em ambiente controlado, seguindo metodologia científica de monitoramento de hardware.
