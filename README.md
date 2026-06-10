@@ -1,7 +1,7 @@
 # <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" /> Evely Silva </p>
 
 <p align="center">
-  <b>Engenharia da Computação (UNIVESP)</b> | <b>Front-End Developer</b>
+  <b>Engenharia de Computação (UNIVESP)</b> | <b>Front-End Developer</b>
 </p>
 
 <p align="center">
